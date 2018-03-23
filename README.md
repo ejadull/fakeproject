@@ -1,9 +1,9 @@
-# Version Control with Git  <fakeproject>
+# Version Control with Git
 
 Este es un repo para Control de Versiones con Git. 
 ## Tabla de Contenidos
 
-* [Instrucciones](#instrucciones)
+* [Instrucciones](#instruccioness)
 * [Creadores](#creadores)
 
 ## Instrucciones
