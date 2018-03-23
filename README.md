@@ -1,4 +1,4 @@
-# Version Control with Git
+# Version Control with Git2
 
 Este es un repo para Control de Versiones con Git. 
 ## Tabla de Contenidos
